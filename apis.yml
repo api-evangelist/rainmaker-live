@@ -1,0 +1,115 @@
+name: Rainmaker Live
+description: APIs for the Rainmaker Live platform providing live streaming, event management, and audience engagement capabilities
+image: https://rainmaker.live/images/logo.png
+url: https://rainmaker.live
+created: '2024'
+modified: '2024'
+tags:
+- live streaming
+- events
+- webinars
+- video
+- audience engagement
+apis:
+- name: Rainmaker Live Streaming API
+  description: API for managing live streams, broadcasts, and video content
+  image: https://rainmaker.live/images/streaming-api.png
+  humanURL: https://rainmaker.live/streaming
+  baseURL: https://api.rainmaker.live/v1/streaming
+  tags:
+  - streaming
+  - video
+  - broadcast
+  properties:
+  - type: Documentation
+    url: https://docs.rainmaker.live/streaming-api
+  - type: OpenAPI
+    url: https://api.rainmaker.live/v1/streaming/openapi.json
+  - type: Authentication
+    url: https://docs.rainmaker.live/authentication
+  contact:
+  - FN: Rainmaker API Support
+    email: api-support@rainmaker.live
+    url: https://rainmaker.live/support
+- name: Rainmaker Events API
+  description: API for creating and managing live events, webinars, and virtual conferences
+  image: https://rainmaker.live/images/events-api.png
+  humanURL: https://rainmaker.live/events
+  baseURL: https://api.rainmaker.live/v1/events
+  tags:
+  - events
+  - webinars
+  - conferences
+  properties:
+  - type: Documentation
+    url: https://docs.rainmaker.live/events-api
+  - type: OpenAPI
+    url: https://api.rainmaker.live/v1/events/openapi.json
+  - type: Postman Collection
+    url: https://www.postman.com/rainmaker-live/events-api
+  contact:
+  - FN: Rainmaker API Support
+    email: api-support@rainmaker.live
+    url: https://rainmaker.live/support
+- name: Rainmaker Engagement API
+  description: API for managing audience interactions including chat, polls, Q&A, and reactions
+  image: https://rainmaker.live/images/engagement-api.png
+  humanURL: https://rainmaker.live/engagement
+  baseURL: https://api.rainmaker.live/v1/engagement
+  tags:
+  - engagement
+  - chat
+  - polls
+  - analytics
+  properties:
+  - type: Documentation
+    url: https://docs.rainmaker.live/engagement-api
+  - type: OpenAPI
+    url: https://api.rainmaker.live/v1/engagement/openapi.json
+  - type: Webhooks
+    url: https://docs.rainmaker.live/webhooks
+  contact:
+  - FN: Rainmaker API Support
+    email: api-support@rainmaker.live
+    url: https://rainmaker.live/support
+- name: Rainmaker Analytics API
+  description: API for accessing streaming analytics, viewer metrics, and engagement statistics
+  image: https://rainmaker.live/images/analytics-api.png
+  humanURL: https://rainmaker.live/analytics
+  baseURL: https://api.rainmaker.live/v1/analytics
+  tags:
+  - analytics
+  - metrics
+  - reporting
+  properties:
+  - type: Documentation
+    url: https://docs.rainmaker.live/analytics-api
+  - type: OpenAPI
+    url: https://api.rainmaker.live/v1/analytics/openapi.json
+  contact:
+  - FN: Rainmaker API Support
+    email: api-support@rainmaker.live
+    url: https://rainmaker.live/support
+common:
+- type: Getting Started
+  url: https://docs.rainmaker.live/getting-started
+- type: Authentication
+  url: https://docs.rainmaker.live/authentication
+- type: SDKs
+  url: https://docs.rainmaker.live/sdks
+- type: Status
+  url: https://status.rainmaker.live
+- type: Terms of Service
+  url: https://rainmaker.live/terms
+- type: Privacy Policy
+  url: https://rainmaker.live/privacy
+- type: Rate Limits
+  url: https://docs.rainmaker.live/rate-limits
+- type: Support
+  url: https://rainmaker.live/support
+- type: Blog
+  url: https://rainmaker.live/blog
+maintainers:
+- FN: Rainmaker Platform Team
+  email: platform@rainmaker.live
+  url: https://rainmaker.live
