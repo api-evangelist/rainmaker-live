@@ -4,11 +4,11 @@ description: Rainmaker Live is a platform providing live streaming, event manage
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/rainmaker-live/refs/heads/main/apis.yml
 tags:
-  - live streaming
-  - events
-  - webinars
-  - video
-  - audience engagement
+  - Audience Engagement
+  - Events
+  - Live Streaming
+  - Video
+  - Webinars
 created: '2024-01-01'
 modified: '2026-03-16'
 specificationVersion: '0.19'
