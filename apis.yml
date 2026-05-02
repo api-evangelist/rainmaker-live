@@ -1,8 +1,12 @@
 aid: rainmaker-live
 name: Rainmaker Live
-description: Rainmaker Live is a platform providing live streaming, event management, and audience engagement capabilities.
+description: >-
+  Rainmaker Live is a tracked entry for a platform providing live streaming,
+  event management, and audience engagement capabilities. No public APIs have
+  been verified at this time.
 type: Index
-url: https://raw.githubusercontent.com/api-evangelist/rainmaker-live/refs/heads/main/apis.yml
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/rainmaker-live/refs/heads/main/apis.yml
 tags:
   - Audience Engagement
   - Events
@@ -10,7 +14,7 @@ tags:
   - Video
   - Webinars
 created: '2024-01-01'
-modified: '2026-03-16'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common: []
