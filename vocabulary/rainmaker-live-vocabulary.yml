@@ -1,0 +1,97 @@
+vocabulary:
+  name: Rainmaker Live Vocabulary
+  description: >-
+    Domain vocabulary for the live streaming, virtual events, and audience
+    engagement space. Covers core concepts for platforms in the live event
+    and webinar industry.
+  version: '1.0'
+  created: '2026-05-02'
+  terms:
+    - term: Live Stream
+      definition: >-
+        Real-time video broadcast delivered over the internet to an audience,
+        typically with low latency to enable interactive experiences such as
+        Q&A, polls, and live chat.
+      tags:
+        - Streaming
+        - Core
+
+    - term: Virtual Event
+      definition: >-
+        An event hosted entirely online, allowing attendees to participate
+        remotely via web browser or mobile app. Includes webinars, virtual
+        conferences, product launches, and live performances.
+      tags:
+        - Events
+        - Core
+
+    - term: Webinar
+      definition: >-
+        A web-based seminar or presentation delivered live over the internet.
+        Typically features one or more presenters, slide decks, and interactive
+        audience elements such as Q&A and polls.
+      tags:
+        - Events
+        - Webinar
+
+    - term: Audience Engagement
+      definition: >-
+        Interactive mechanisms that allow event attendees to participate beyond
+        passive viewing, including live polls, Q&A sessions, chat, reactions,
+        and breakout rooms.
+      tags:
+        - Engagement
+        - Core
+
+    - term: CDN
+      definition: >-
+        Content Delivery Network. Infrastructure used to distribute video
+        stream content to global audiences with low latency by caching
+        content at geographically distributed edge servers.
+      tags:
+        - Infrastructure
+        - Streaming
+
+    - term: Replay
+      definition: >-
+        Recorded version of a live stream or virtual event made available
+        on-demand to attendees or the public after the live broadcast ends.
+      tags:
+        - Video
+        - Content
+
+    - term: Registration
+      definition: >-
+        The process by which attendees sign up to participate in a live event
+        or webinar, typically capturing name, email, and other qualifying
+        information.
+      tags:
+        - Events
+        - Attendee
+
+    - term: HLS
+      definition: >-
+        HTTP Live Streaming. An adaptive bitrate streaming protocol developed
+        by Apple that breaks video into segments and supports multiple quality
+        levels. Widely used for live streaming delivery.
+      tags:
+        - Protocol
+        - Streaming
+
+    - term: Latency
+      definition: >-
+        The delay between video capture and delivery to the viewer. Low-latency
+        streaming (under 5 seconds) enables real-time interaction; ultra-low
+        latency (under 1 second) supports two-way communication.
+      tags:
+        - Technical
+        - Streaming
+
+    - term: Presenter
+      definition: >-
+        A participant in a live event who delivers content to the audience,
+        as opposed to an attendee who primarily receives content. May have
+        elevated platform permissions for screen sharing and audio/video control.
+      tags:
+        - Events
+        - Roles
