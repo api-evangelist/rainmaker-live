@@ -30,7 +30,7 @@ tags:
   - Virtual Events
 created: '2024-01-01'
 modified: '2026-05-02'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: JSONLD
