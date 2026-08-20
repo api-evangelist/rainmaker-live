@@ -23,6 +23,13 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/rainmaker-live/refs/heads/main/apis.yml
 tags:
   - Audience Engagement
+  - Event
+  - Live Streaming
+  - Video
+  - Webinars
+  - Virtual Events
+tags_raw:
+  - Audience Engagement
   - Events
   - Live Streaming
   - Video
