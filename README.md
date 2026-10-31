@@ -64,34 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rainmaker Live is a platform for live streaming, virtual events, and audience engagement. No public REST APIs or developer documentation have been verified as of the latest research. The platform focuses on event management, live streaming delivery, and interactive audience participation.
+Rainmaker Live is a platform for live streaming, virtual events, and audience engagement. No public REST APIs or developer documentation have been verified as of the latest research. The platform focuses on event management, live streaming delivery, and interactive audience participation for webinars, conferences, and live productions.
 
-## Tags
+**Areas:** Audience Engagement · Event · Live Streaming · Video · Webinars · Virtual Events
 
-Audience Engagement, Events, Live Streaming, Video, Webinars, Virtual Events
+## Rainmaker Live on APIs.io
 
-## Timestamps
+Everything profiled for Rainmaker Live is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rainmaker-live/](https://apis.io/providers/rainmaker-live/)** — or go straight to one of the APIs or properties below.
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-05-02
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-No public APIs have been verified for Rainmaker Live at this time.
+#### JSON-LD (1)
 
-## Artifacts
+Linked-data contexts for the provider's vocabulary.
 
-### JSON-LD
-| File | Description |
-|---|---|
-| [json-ld/rainmaker-live-context.jsonld](json-ld/rainmaker-live-context.jsonld) | Linked data context for live events domain |
+- [Rainmaker Live Context](https://apis.io/jsonld/rainmaker-live/rainmaker-live-context/)
 
-### Vocabulary
-| File | Description |
-|---|---|
-| [vocabulary/rainmaker-live-vocabulary.yml](vocabulary/rainmaker-live-vocabulary.yml) | Live streaming and virtual events vocabulary |
+#### Vocabulary (1)
 
-## Maintainers
+The provider's domain terms, defined.
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+- [Rainmaker Live Vocabulary](https://apis.io/vocabularies/rainmaker-live/rainmaker-live-vocabulary/)
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rainmaker Live: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rainmaker-live/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
